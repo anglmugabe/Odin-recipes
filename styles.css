@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.container h1 {
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+a {
+    margin: 10px;
+    font-size: 20px;
+    color: grey;
+    text-decoration: none;
+}
+
+.brownies-content h1 {
+    font-size: 60px;
+    text-align: center;
+}
